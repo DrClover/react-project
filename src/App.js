@@ -11,7 +11,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="app">
-        anything
+        Dr Clover is the best
         
       </div>
     );
